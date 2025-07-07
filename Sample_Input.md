@@ -5,6 +5,7 @@ This sample demonstrates how unstructured ticket content was automatically proce
 ---
 
 ## 🎯 Sample Unstructured Input (Email Body Example)
+
 Harry Potter, identified by Applicant ID 14560, holds the position of Innovation Engineer within the Data Engineering & Analytics department. They report to their designated line manager and are classified as a permanent employee with an annual salary of 100,000.
 Their employment began on 05/02/2024. The applicant's office is located at [Office Address], and they can be contacted via phone at [Phone Number]. Based in [Country] and operating from the [Region] region, their system credentials have been created with a designated username and password, along with an assigned User Principal Name for company systems.
 Additionally, the applicant is associated with a specified external supplier and has been assigned to various system groups, including but not limited to:
@@ -18,6 +19,7 @@ Space Booking System
 Azure Directory Groups
 The applicant has also been set up for graphical email signatures and enrolled in conditional access policies for device and application security.
 Furthermore, the applicant's profile includes US-specific attributes and additional company updates, based on organizational requirements.
+
 ---
 
 ## ✅ Structured Output (SharePoint List Format)
