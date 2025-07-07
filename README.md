@@ -42,6 +42,25 @@ These manual processes are often:
 
 
 ---
+## ⚙️ Power Automate Flow Design
+
+The automation process is driven by several **Power Automate Cloud Flows** which handle tasks such as data fetching, approvals, account creation, and email notifications.
+
+Below is a screenshot of the key Cloud Flows developed for this onboarding automation:
+
+![Power Automate Flows](Power%20Automate%20Flows.jpeg)
+
+**Key Flows:**
+- Zendesk Ticket Trigger (Helpdesk Automation)
+- SharePoint Record Fetch & Data Validation
+- Line Manager & US Specific Approvals
+- Entra Onboarding Agent Flow (Account & Group Setup)
+- Validation Flows (Ensuring Process Completion)
+
+
+Each flow is integrated with Copilot Studio via Agent Flows to enable seamless automation and user interaction.
+
+> *Note:* The screenshot displays the cloud flows in the Power Platform environment, illustrating the modular structure and clear segregation of responsibilities among flows.
 
 ## 🔄 Process Overview
 
