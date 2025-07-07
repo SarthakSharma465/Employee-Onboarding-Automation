@@ -7,10 +7,12 @@ This project demonstrates an **automated employee onboarding process (Joiner Pro
 ## 📋 Problem Statement
 
 Manual onboarding processes involve repetitive tasks such as:
+- Monitoring Zendesk Tickets for New Joiners
 - Azure Entra ID account creation  
 - Email setup & distribution list management  
 - Hardware & application provisioning  
 - Multi-step approvals with HR, Line Managers, and IT
+- Filling Zendesk Ticket Forms for audit & tracking purposes
 
 These manual processes are often:
 - Time-consuming  
