@@ -62,13 +62,13 @@ The process begins automatically when an onboarding request ticket is received o
 ### 5. **Zendesk Joiner Form Update**
 - The agent triggers a Power Automate flow to complete a checklist on the Zendesk Ticket's form for the IT Team to track the progress on the onboarding.
 
-## 🙋‍♂️ Author
-Sarthak Sharma  
-*Low-Code Developer | AI Automation/Innovation Engineer*
-
 ### 6. **Hardware & Application Provisioning**
 - Sends a summary to IT for provisioning hardware and software.
 - Initiates approvals from IT and then from the new joiner to confirm successful onboarding.
 
 ### 7. **New Joiner Notification**
 - Sends an email dynamically fetching the user details like the Applicant Name, Department, Role etc. to the organisation to welcome the new joiner.
+
+## 🙋‍♂️ Author
+Sarthak Sharma  
+*Low-Code Developer | AI Automation/Innovation Engineer*
