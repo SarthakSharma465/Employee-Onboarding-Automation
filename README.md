@@ -1,10 +1,10 @@
-# 🚀 Automated Joiner (Onboarding) Process Using Copilot Studio & Power Platform
+# Automated Joiner (Onboarding) Process Using Copilot Studio & Power Platform
 
 This project demonstrates an **automated employee onboarding process (Joiner Process)** built using **Microsoft Copilot Studio, Power Automate, SharePoint, and Azure Entra ID**. It was developed to optimize and automate the Joiners-Movers-Leavers (JML) workflow for a client’s HR and IT operations, reducing manual tasks and increasing process accuracy.
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 Manual onboarding processes involve repetitive tasks such as:
 - Monitoring Zendesk Tickets for New Joiners
@@ -23,13 +23,13 @@ These manual processes are often:
 
 ---
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](/Architecture_Diagram.jpg)
 
 ---
 
-## 🔧 Tech Stack Used
+## Tech Stack Used
 - **Microsoft Copilot Studio:** Agent-based automation platform for conversational workflows  
 - **Power Automate:** Backend process orchestration and approvals  
 - **AI Hub (Power Automate):** Used for AI-based email parsing and prompt-based response formatting 
@@ -42,7 +42,7 @@ These manual processes are often:
 
 
 ---
-## ⚙️ Power Automate Flow Design
+## Power Automate Flow Design
 
 The automation process is driven by several **Power Automate Cloud Flows** which handle tasks such as data fetching, approvals, account creation, and email notifications.
 
@@ -62,7 +62,7 @@ Each flow is integrated with Copilot Studio via Agent Flows to enable seamless a
 
 > *Note:* The screenshot displays the cloud flows in the Power Platform environment, illustrating the modular structure and clear segregation of responsibilities among flows.
 
-## 🔄 Process Overview
+## Process Overview
 
 ### 1. **Trigger Event - Zendesk**
 The process begins automatically when an onboarding request ticket is received on Zendesk. AI Prompts parse the ticket information into structured JSON data and store it in SharePoint.
@@ -90,12 +90,12 @@ The process begins automatically when an onboarding request ticket is received o
 ### 7. **New Joiner Notification**
 - Sends an email dynamically fetching the user details like the Applicant Name, Department, Role etc. to the organisation to welcome the new joiner.
 
-## 📄 License
+## License
 This repository is for personal portfolio demonstration purposes only. No confidential or proprietary information is included.
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 Sarthak Sharma  
 *Low-Code Developer | AI Automation/Innovation Engineer*
 
