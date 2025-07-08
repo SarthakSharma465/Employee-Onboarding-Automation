@@ -90,6 +90,12 @@ The process begins automatically when an onboarding request ticket is received o
 ### 7. **New Joiner Notification**
 - Sends an email dynamically fetching the user details like the Applicant Name, Department, Role etc. to the organisation to welcome the new joiner.
 
+## 📄 License
+This repository is for personal portfolio demonstration purposes only. No confidential or proprietary information is included.
+
+---
+
 ## 🙋‍♂️ Author
 Sarthak Sharma  
 *Low-Code Developer | AI Automation/Innovation Engineer*
+
